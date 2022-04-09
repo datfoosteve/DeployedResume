@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "https://datfoosteve.github.io/csb-jzke1s/static/js/main.67bfffb9.chunk.js",
+    "main.js.map": "https://datfoosteve.github.io/csb-jzke1s/static/js/main.67bfffb9.chunk.js.map",
+    "runtime-main.js": "https://datfoosteve.github.io/csb-jzke1s/static/js/runtime-main.02830538.js",
+    "runtime-main.js.map": "https://datfoosteve.github.io/csb-jzke1s/static/js/runtime-main.02830538.js.map",
+    "static/css/2.a8d114ca.chunk.css": "https://datfoosteve.github.io/csb-jzke1s/static/css/2.a8d114ca.chunk.css",
+    "static/js/2.5060f9d2.chunk.js": "https://datfoosteve.github.io/csb-jzke1s/static/js/2.5060f9d2.chunk.js",
+    "static/js/2.5060f9d2.chunk.js.map": "https://datfoosteve.github.io/csb-jzke1s/static/js/2.5060f9d2.chunk.js.map",
+    "index.html": "https://datfoosteve.github.io/csb-jzke1s/index.html",
+    "static/css/2.a8d114ca.chunk.css.map": "https://datfoosteve.github.io/csb-jzke1s/static/css/2.a8d114ca.chunk.css.map",
+    "static/js/2.5060f9d2.chunk.js.LICENSE.txt": "https://datfoosteve.github.io/csb-jzke1s/static/js/2.5060f9d2.chunk.js.LICENSE.txt",
+    "static/media/demo.8c748979.pdf": "https://datfoosteve.github.io/csb-jzke1s/static/media/demo.8c748979.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02830538.js",
+    "static/css/2.a8d114ca.chunk.css",
+    "static/js/2.5060f9d2.chunk.js",
+    "static/js/main.67bfffb9.chunk.js"
+  ]
+}
